@@ -1,0 +1,18 @@
+.food-container{
+    display: flex;
+    flex-direction: column;
+    width: 650px;
+}
+
+.row1{
+    align-self: center;
+}
+
+.row2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.selected{
+    border: 5px solid green;
+}
